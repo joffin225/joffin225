@@ -45,25 +45,6 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**JobIntel AI**](https://github.com/YOUR_USERNAME/REPO_NAME) | Multi-agent job-research assistant with JD-tailored resume optimization | FastAPI · Streamlit · OpenAI · Render |
-| [**Churn Prediction + MLflow**](https://github.com/YOUR_USERNAME/REPO_NAME) | Churn model with tracked experiments and a deployment-ready pipeline | scikit-learn · MLflow |
-| [**Maternal Health Risk**](https://github.com/YOUR_USERNAME/REPO_NAME) | Predictive model for maternal health risk with a deployment framework | Python · scikit-learn |
-
-## GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark" />
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="165" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165" />
-  </picture>
-</p>
 
 <p align="center"><em>Open to collaborating on applied ML, LLM products, and analytics problems with real-world impact.</em></p>
