@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-joffinclement@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="joffinclement@gmail.com" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Joffin_Clement-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/joffincclement/" /></a>
+  <a href="https://linkedin.com/in/joffincclement/"><img src="https://img.shields.io/badge/LinkedIn-Joffin_Clement-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /> /></a>
   <img src="https://img.shields.io/badge/Based_in-India-138808?style=flat-square" alt="Location" />
 </p>
 
