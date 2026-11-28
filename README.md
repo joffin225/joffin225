@@ -11,7 +11,6 @@
 - Research Associate at the **Indian School of Business (ISB)**, SRITNE, where I lead AI/ ML product development from data collection through deployment
 - 3+ years across data science, machine learning, and statistical modeling in **healthcare, marketing, and edtech**
 - MSc Statistics (Loyola College, Chennai) · BSc Mathematics (Sacred Heart College, Kochi)
-- Currently exploring roles as an **AI/ML Engineer**
 
 ## What I Work On
 
