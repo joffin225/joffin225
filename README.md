@@ -35,7 +35,7 @@
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 
 **LLMs & GenAI**
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-412991?style=flat&logo=openai&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
 **Apps & Deployment**
